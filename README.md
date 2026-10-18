@@ -1,5 +1,0 @@
-"# git-practice" 
-"Git 실습용 저장소입니다." 
-"" 
-"## Files" 
-"- hello.py, calc.py, notes.txt" 
